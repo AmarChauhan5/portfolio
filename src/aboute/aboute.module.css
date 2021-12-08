@@ -1,0 +1,39 @@
+.my_bg{
+    /* background-color: #120321; */
+  background-color: #120321;
+
+    
+
+    /* color: whitesmoke; */
+}
+.my_font{
+    font-size: 1.8rem;
+    margin: 0px;
+    padding: 0px;
+    color: rgb(224, 224, 224);;
+}
+.my_link{
+    font-size: 2rem;
+    /* margin-left: 1rem; */
+    color: rgb(224, 224, 224);;
+
+}
+.icon{
+    /* margin-left: 1rem; */
+    font-size: 4rem;
+    color: rgb(66, 66, 218);
+
+}
+.email{
+    font-size: 1.6rem;
+    font-style: italic;
+    color: rgb(224, 224, 224);;
+    margin-top: 2rem;
+}
+.copy{
+    font-size: 1rem;
+    font-style: italic;
+    color: rgb(224, 224, 224);;
+    /* margin-bottom: 5rem; */
+    padding-bottom: 6rem;
+}

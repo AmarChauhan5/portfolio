@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif:wght@700&display=swap");
+
+.my_bg {
+  /* background-size: cover;
+    background-attachment: fixed; */
+  /* opacity: .8; */
+  background-color: #120321;
+  /* background-color: rgb(52, 19, 90); */
+  /* z-index: -1; */
+}
+/* .containt1{
+    /* z-index: 1; */
+/* }  */
+.circle {
+  font-size: 1.7rem;
+  color: rgb(224, 224, 224);
+  font-weight: lighter;
+  max-width: 7rem;
+  height: 7rem;
+  border-radius: 5rem;
+  border: 0.3rem solid rgb(224, 224, 224);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+}
+
+.card {
+  font-size: 1.5rem;
+  color: rgb(224, 224, 224);
+
+  font-weight: lighter;
+  width: 11.5rem;
+  height: 11.5rem;
+  /* background-color: #120321;
+    border-radius: 1rem; */
+}
+
+.skill {
+  font-size: 2rem;
+  font-weight: bolder;
+  font-family: "Noto Serif", serif;
+
+  color: rgb(224, 224, 224);;
+  background-color: #120321;
+
+  /* background-color: rgb(52, 19, 90); */
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.slide {
+  /* width: 200px; */
+  /* border:5px solid red ; */
+  border-radius: 1.6rem;
+  /* padding: .5rem; */
+  margin-left: 1rem;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  background-color: #120321;
+
+  /* box-shadow: 7px -11px 144px -33px white; */
+  box-shadow: 0px -1px 13px -5px white;
+
+  /* padding: 1rem; */
+}
