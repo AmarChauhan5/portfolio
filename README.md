@@ -1,6 +1,6 @@
 # portfolio
 I'm make this static website in "React.js library".\
-Open [PortFolio](https://amarchauhan5.github.io/todoapp/) to view it in the browser.
+Open [PortFolio](https://amarchauhan5.github.io/portfolio/) to view it in the browser.
 # Screenshot
 
 <p align="center">
